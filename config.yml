@@ -2,3 +2,5 @@ logging:
   level: INFO
   loggers:
     de.codingberlin: DEBUG
+template: Hello, %s!
+defaultName: Stranger
